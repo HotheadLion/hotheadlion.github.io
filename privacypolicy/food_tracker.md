@@ -1,5 +1,5 @@
 ## Privacy Policy<br>
- {{ site.app_name }} is developed and published by {{ site.company_name }}. All intellectual property rights are owned by {{ site.company_name }}.
+ {{ site.app_name_food_tracker }} is developed and published by {{ site.company_name }}. All intellectual property rights are owned by {{ site.company_name }}.
  
 This Privacy Policy explains our privacy practices for the Service. It describes the ways your personal information and data is collected and used through our designated mobile application. It also describes the rights and options available to you with respect to your information.
  
