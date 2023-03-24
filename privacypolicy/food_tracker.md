@@ -1,5 +1,5 @@
 ## Privacy Policy<br>
-Background Eraser Editor is developed and published by GUOMEI ZHANG. All intellectual property rights are owned by Huizhou Kingtog Technology Co., Ltd.
+Background Eraser Editor is developed and published by Kingtog Technology Co., Ltd. All intellectual property rights are owned by Kingtog Technology Co., Ltd.
  
 This Privacy Policy explains our privacy practices for the Service. It describes the ways your personal information and data is collected and used through our designated mobile application. It also describes the rights and options available to you with respect to your information.
  
