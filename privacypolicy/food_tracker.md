@@ -1,5 +1,5 @@
 ## Privacy Policy<br>
- {{ site.app_name }} is developed and published by Kingtog {{ site.company_name }}. All intellectual property rights are owned by Kingtog Technology Co., Ltd.
+ {{ site.app_name }} is developed and published by {{ site.company_name }}. All intellectual property rights are owned by {{ site.company_name }}.
  
 This Privacy Policy explains our privacy practices for the Service. It describes the ways your personal information and data is collected and used through our designated mobile application. It also describes the rights and options available to you with respect to your information.
  
@@ -35,4 +35,4 @@ Data Retention
 We retains the information collected pursuant to this Privacy Policy. If the collected information is no longer needed for purposes specified in this Privacy Policy, We shall delete all aforementioned information in its possession.
  
 Customer Support
-When you request for customer support, we asks for your email address and other contact information, so that we can get back to you with our response regarding your feedback. We also collect information regarding your support request. You may contact us with any questions or comments directly at: HotheadLion@hotmail.com
+When you request for customer support, we asks for your email address and other contact information, so that we can get back to you with our response regarding your feedback. We also collect information regarding your support request. You may contact us with any questions or comments directly at:  {{ site.contact_email }}
