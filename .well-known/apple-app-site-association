@@ -1,12 +1,17 @@
 {
   "applinks": {
-    "apps": ["2T26FUAV83.qingtong.food.healthy.tracker"],
+    "apps": ["2T26FUAV83.qingtong.food.healthy.tracker","2T26FUAV83.file.transfer.secure.media"],
     "details": [
       {
         "appID": "2T26FUAV83.qingtong.food.healthy.tracker",
         "paths": [ "/food-journal/*" ]
+      },
+      {
+        "appID": "2T26FUAV83.file.transfer.secure.media",
+        "paths": [ "/air-transfer/*" ]
       }
 
     ]
   }
 }
+
