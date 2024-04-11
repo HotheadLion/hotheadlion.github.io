@@ -1,3 +1,4 @@
-## StandBy Now Coming!"<br>
-### Stay Hydrated & Healthy With Ease!<br>
-Your best hydration companion! Get smart & timely reminders, track your drink water intake, and stay healthy with ease!
+## StandBy Mode Widgets!"<br>
+### Water Tracker Add iOS 17 Interactive StandBy Mode Widgets!<br>
+Water Tracker - Drink Reminder app also comes with funny Interactive StandBy Mode Widgets. 
+With these helpfully Interactive StandBy Mode Widgets remind you, there’s no better reminder to stay hydrated.
