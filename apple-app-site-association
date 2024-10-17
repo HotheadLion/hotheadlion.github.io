@@ -1,6 +1,6 @@
 {
   "applinks": {
-    "apps": ["2T26FUAV83.qingtong.food.healthy.tracker","2T26FUAV83.file.transfer.secure.media", "2T26FUAV83.daily.water.tracker.reminder"],
+    "apps": ["2T26FUAV83.qingtong.food.healthy.tracker","2T26FUAV83.file.transfer.secure.media", "2T26FUAV83.daily.water.tracker.reminder", "2T26FUAV83.screen.time.control.focus"],
     "details": [
       {
         "appID": "2T26FUAV83.qingtong.food.healthy.tracker",
@@ -13,6 +13,10 @@
       {
         "appID": "2T26FUAV83.daily.water.tracker.reminder",
         "paths": [ "/water-alarm*" ]
+      },
+      {
+        "appID": "2T26FUAV83.screen.time.control.focus",
+        "paths": [ "/focuspad*" ]
       }
 
     ]
