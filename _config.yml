@@ -2,12 +2,14 @@ theme: jekyll-theme-modernist
 title: Kingtog Technology Co., Ltd 
 description:  To bring people-oriented technology solutions that positively impact lives. 
 company_name: Huizhou Kingtog Technology Co., Ltd 
+company_name_cn: 惠州市青桐科技有限公司
 company_nickname: Kingtog Technology
 app_name_food_tracker: Food Tracker
 app_name_air_transfer: Air Transfer
 app_name_water_alarm: Water Alarm
 app_name_light_banner: LedPad
 app_name_foucspad: FocusPad
+site.app_name_foucspad_cn: 专注宝
 contact_email: service_hotheadlion@outlook.com
 show_downloads: false
 domain_name: kingtog.com
