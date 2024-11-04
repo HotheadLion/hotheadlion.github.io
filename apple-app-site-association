@@ -15,6 +15,10 @@
         "paths": [ "/water-alarm*" ]
       },
       {
+        "appID": "2T26FUAV83.mobile.led.banner.display",
+        "paths": [ "/ledpad*" ]
+      },
+      {
         "appID": "2T26FUAV83.screen.time.control.focus",
         "paths": [ "/focuspad*" ]
       }
